@@ -1,0 +1,50 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*navigation*/
+.navbar .navbar-brand{
+	color: #000000;
+	font-weight: bolder;
+	padding-left: 3%;
+}
+.nav-link {
+	color: black !important;
+	font-weight: bolder;
+	font-size: 13px;
+
+}
+
+
+.company {
+	font-weight: bold;
+	font-size: 18px;
+	color: black !important;
+}
+
+.desc {
+	font-size: 14px;
+	color: black;
+	font-weight: normal;
+}
+
+.featurette-heading {
+	font-size: 30px;
+	font-weight: bolder;
+	color: #000000 !important;
+
+}
+
+.lead{
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.j3 {
+	background-color:#ffcce6;
+	height: 250px;
+}
+
+.lead1 {
+	color: #404040;
+}
