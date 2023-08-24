@@ -41,6 +41,10 @@ body {
 .cat {
 	font-size: 13px;
 }
+.fa:hover{
+  transform: scale(2.0) rotate(0.001deg);
+  color:  #ff9900;
+}
 
 /*partner stores*/
 .mystore {
@@ -114,7 +118,8 @@ body {
 .name{
   font-size: 18px;
   font-weight: 500;
-  color: #333;
+/*  color: #333;*/
+color: #ff9900;
 }
 .description{
   font-size: 14px;
@@ -136,11 +141,14 @@ body {
   background: #265DF2;
 }
 .swiper-navBtn{
-  color: #6E93f7;
+/*  color: #6E93f7;*/
+color: #000000;
   transition: color 0.3s ease;
 }
 .swiper-navBtn:hover{
-  color: #4070F4;
+/*  color: #4070F4;*/
+color: #000000;
+
 }
 .swiper-navBtn::before,
 .swiper-navBtn::after{
@@ -153,11 +161,13 @@ body {
   left: 0;
 }
 .swiper-pagination-bullet{
-  background-color: #6E93f7;
+/*  background-color: #6E93f7;*/
+background-color: #000000;
   opacity: 1;
 }
 .swiper-pagination-bullet-active{
-  background-color: #4070F4;
+/*  background-color: #4070F4;*/
+background-color: #000000;
 }
 @media screen and (max-width: 768px) {
   .slide-content{

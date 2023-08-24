@@ -7,7 +7,9 @@
     <meta name="description" content="Shop from different sores across the globe">
     <meta name="author" content="LettucePay">
     <meta name="keywords" content="ecommerce,online shopping,fintech">
-    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <!-- <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico"> -->
+    <link rel="icon" href="images/logo.png">
 
     <title>LettucePay</title>
 
@@ -157,14 +159,76 @@
 
                     <div class="card swiper-slide">
                         <div class="image-content">
+                            <!-- <span class="overlay"></span> -->
+                            <div class="card-image">
+                                <a href=""><img src="images/6.png" alt="" class="card-img"></a>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <h2 class="name">Store front</h2>
+                            
+                        </div>
+                    </div>
+
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <!-- <span class="overlay"></span> -->
+                            <div class="card-image">
+                                <a href=""><img src="images/7.png" alt="" class="card-img"></a>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <h2 class="name">Store front</h2>
+                            
+                        </div>
+                    </div>
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <!-- <span class="overlay"></span> -->
+                            <div class="card-image">
+                              <a href=""><img src="images/8.png" alt="" class="card-img"></a>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <h2 class="name">Store front</h2>
+                           
+                        </div>
+                    </div>
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <!-- <span class="overlay"></span> -->
+                            <div class="card-image">
+                                <a href=""><img src="images/9.png" alt="" class="card-img"></a>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <h2 class="name">Store front</h2>
+                            
+                        </div>
+                    </div>
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <!-- <span class="overlay"></span> -->
+                            <div class="card-image">
+                                <a href=""><img src="images/10.png" alt="" class="card-img"></a>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <h2 class="name">Store front</h2>
+                         
+                        </div>
+                    </div>
+
+                  <!--   <div class="card swiper-slide">
+                        <div class="image-content">
                             <span class="overlay"></span>
                             <div class="card-image">
-                                <!--<img src="images/profile1.jpg" alt="" class="card-img">-->
+                                <img src="images/profile6.jpg" alt="" class="card-img">
                             </div>
                         </div>
                         <div class="card-content">
                             <h2 class="name">David Dell</h2>
-                            
+                           
                         </div>
                     </div>
 
@@ -172,7 +236,7 @@
                         <div class="image-content">
                             <span class="overlay"></span>
                             <div class="card-image">
-                                <!--<img src="images/profile2.jpg" alt="" class="card-img">-->
+                                <img src="images/profile7.jpg" alt="" class="card-img">
                             </div>
                         </div>
                         <div class="card-content">
@@ -184,7 +248,7 @@
                         <div class="image-content">
                             <span class="overlay"></span>
                             <div class="card-image">
-                                <!--<img src="images/profile3.jpg" alt="" class="card-img">-->
+                                <img src="images/profile8.jpg" alt="" class="card-img">
                             </div>
                         </div>
                         <div class="card-content">
@@ -196,74 +260,14 @@
                         <div class="image-content">
                             <span class="overlay"></span>
                             <div class="card-image">
-                                <!--<img src="images/profile4.jpg" alt="" class="card-img">-->
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                            
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <!--<img src="images/profile5.jpg" alt="" class="card-img">-->
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                         
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <!--<img src="images/profile6.jpg" alt="" class="card-img">-->
+                                <img src="images/profile9.jpg" alt="" class="card-img">
                             </div>
                         </div>
                         <div class="card-content">
                             <h2 class="name">David Dell</h2>
                            
                         </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <!--<img src="images/profile7.jpg" alt="" class="card-img">-->
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                            
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <!--<img src="images/profile8.jpg" alt="" class="card-img">-->
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                           
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <!--<img src="images/profile9.jpg" alt="" class="card-img">-->
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                           
-                        </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="swiper-button-next swiper-navBtn"></div>
