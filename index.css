@@ -8,6 +8,10 @@ body {
 	font-weight: bolder;
 	padding-left: 3%;
 }
+
+.navbar .navbar-brand:hover{
+  color: #000000;
+}
 .nav-link {
 	color: black !important;
 	font-weight: bolder;
@@ -62,8 +66,14 @@ body {
   border-radius: 25px;
 }
 .card{
-  border-radius: 25px;
+  border-radius: 25px black;
   background-color: #FFF;
+  border: 2px solid green;
+}
+
+.card-content{
+  background-color: #009933;
+
 }
 .image-content,
 .card-content{
@@ -71,11 +81,15 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 10px 14px;
+
+
+
 }
 .image-content{
   position: relative;
   row-gap: 5px;
   padding: 25px 0;
+
 }
 .overlay{
   position: absolute;
@@ -119,7 +133,8 @@ body {
   font-size: 18px;
   font-weight: 500;
 /*  color: #333;*/
-color: #ff9900;
+color: #ffffff;
+
 }
 .description{
   font-size: 14px;

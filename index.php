@@ -161,7 +161,7 @@
                         <div class="image-content">
                             <!-- <span class="overlay"></span> -->
                             <div class="card-image">
-                                <a href=""><img src="images/6.png" alt="" class="card-img"></a>
+                                <a href=""><img src="images/5.png" alt="" class="card-img"></a>
                             </div>
                         </div>
                         <div class="card-content">
@@ -174,7 +174,7 @@
                         <div class="image-content">
                             <!-- <span class="overlay"></span> -->
                             <div class="card-image">
-                                <a href=""><img src="images/7.png" alt="" class="card-img"></a>
+                                <a href=""><img src="images/6.png" alt="" class="card-img"></a>
                             </div>
                         </div>
                         <div class="card-content">
@@ -186,7 +186,7 @@
                         <div class="image-content">
                             <!-- <span class="overlay"></span> -->
                             <div class="card-image">
-                              <a href=""><img src="images/8.png" alt="" class="card-img"></a>
+                              <a href=""><img src="images/10.png" alt="" class="card-img"></a>
                             </div>
                         </div>
                         <div class="card-content">
@@ -198,7 +198,7 @@
                         <div class="image-content">
                             <!-- <span class="overlay"></span> -->
                             <div class="card-image">
-                                <a href=""><img src="images/9.png" alt="" class="card-img"></a>
+                                <a href=""><img src="images/5.png" alt="" class="card-img"></a>
                             </div>
                         </div>
                         <div class="card-content">
@@ -210,7 +210,7 @@
                         <div class="image-content">
                             <!-- <span class="overlay"></span> -->
                             <div class="card-image">
-                                <a href=""><img src="images/10.png" alt="" class="card-img"></a>
+                                <a href=""><img src="images/6.png" alt="" class="card-img"></a>
                             </div>
                         </div>
                         <div class="card-content">

@@ -7,7 +7,7 @@
     <meta name="description" content="Shop from different stores">
     <meta name="author" content="">
     <meta name="keyword" content="online payment, grocery shopping">
-    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+    <link rel="icon" href="images/logo.png">
 
     <title>LettucePay</title>
 
