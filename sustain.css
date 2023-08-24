@@ -19,7 +19,7 @@ body {
 .j3{
 
 	height: 450px;
-	background-image: url("images/sustain.png");
+	background-image: url("images/sdg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: scroll;
@@ -28,7 +28,8 @@ body {
 }
 
 .display-6 {
-	color: #000000;
+/*	color: #000000;*/
+color: #00b33c;
 	padding-top: 8%;
 }
 
@@ -43,7 +44,7 @@ body {
 	font-size: 14px;
 }
 
-.featurette{
+/*.featurette{
 	position: relative;
 }
 
@@ -67,4 +68,4 @@ body {
 
 .featurette:hover .content{
 	display: block;
-}
+}*/
