@@ -48,3 +48,15 @@ body {
 .lead1 {
 	color: #404040;
 }
+
+/*media queries*/
+@media only screen and (max-width:600px){
+
+	.navbar-toggler-icon{
+		
+  background-color: #000000;
+  opacity: .5;
+  
+}
+
+}

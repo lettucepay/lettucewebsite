@@ -121,3 +121,41 @@ ul.social-network li {
 }
 
 
+/*media queries*/
+/*extra small devices (phones, 600px and down)*/
+@media only screen and (max-width:600px)
+{
+  
+
+  ul .list-unstyled{
+  width: 100%;
+  margin:0;
+  padding: 0;
+  float: left;
+ }
+
+ ul .list-unstyled li{
+  display: inline;
+}
+
+ 
+ ul .list-unstyled li a{
+  float: left;
+  width: 30%;
+  padding: 2px 5px;
+}
+  
+}
+
+/*small devices(portrait tablet and large phones, 600px and upwards)*/
+@media only screen and (min-width:600px){
+
+}
+
+/*medium devices(landscape tablets, 768px and up)*/
+@media only screen and (min-width:768px)
+{
+
+}
+
+

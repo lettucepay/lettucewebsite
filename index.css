@@ -1,3 +1,7 @@
+*{
+/* making sure the padding an border are included in the total width and height of the element */
+  box-sizing: border-box;
+}
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -184,6 +188,7 @@ background-color: #000000;
 /*  background-color: #4070F4;*/
 background-color: #000000;
 }
+
 @media screen and (max-width: 768px) {
   .slide-content{
     margin: 0 10px;
@@ -192,4 +197,60 @@ background-color: #000000;
     display: none;
   }
 }
+
+
+/*extra small devices(phones, 600px and down)*/
+@media only screen  and (max-width:600px){
+
+  body {
+/*    background-color: yellow;*/
+  }
+
+/*  navbar*/
+.navbar-toggler-icon{
+  background-color: #000000;
+  opacity: .5;
+  
+}
+
+/*media queries for icons*/
+ .marketing {
+  width: 100%;
+  padding-left: 30px;
+  float: left;
+ }
+
+.col-lg-2{
+  float: left;
+  width: 14%;
+ }
+
+}
+
+/* small devices(portrait and large pones, 600px and up)*/
+@media only screen and (min-width:600px){
+
+  .marketing {
+  width: 100%;
+  padding-left: 35px;
+  float: left;
+ }
+
+.col-lg-2{
+  float: left;
+  width: 14%;
+ }
+
+/*medium devices(landscape tablet, 768px and up)*/
+@media only screen and (min-width:768px){
+
+}
+
+
+
+}
+
+
+
+
 

@@ -2,7 +2,8 @@
   <div class="footer-middle">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-3 col-sm-6">
+
+      <div class="col-md-3">
         <!--Column1-->
         <div class="footer-pad">
           <h4>Lettucepay</h4>
@@ -16,6 +17,7 @@
           </ul>
         </div>
       </div>
+
       <div class="col-md-3 col-sm-6">
         <!--Column1-->
         <div class="footer-pad">
@@ -30,7 +32,8 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6">
+
+      <div class="col-md-3 col-sm-6"> 
         <!--Column1-->
         <div class="footer-pad">
           <h4>Business</h4>
@@ -46,7 +49,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <h4>Join  Us</h4>
             <ul class="social-network social-circle">
               <li><a href="#"><i class="fa fa-android" aria-hidden="true" style="font-size:24px"></i></a></li>

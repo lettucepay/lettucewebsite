@@ -49,23 +49,23 @@ color: #00b33c;
 }
 
 
-
-.content{
-	width: 40%;
-	height: 100%;
-	background-color:  #ff9900;
-	position: absolute;
-	top: 0%;
-	left: 59%;
-	z-index: 1;
-	display: none;
-	color: white;
-	font-weight: bolder;
-	font-size:13px;
-	line-height: 300%;
-	opacity: 1;
+/*extra small devices (phones, 600px and down)*/
+@media only screen and (max-width:600px)
+{
+	.navbar-toggler-icon{
+  background-color: #000000;
+  opacity: .5;
+  
 }
 
-.featurette:hover .content{
-	display: block;
-}*/
+	.j3 {
+		margin-top: 10%;
+	}
+
+	.display-6 {
+		margin-top: 10%;
+		font-weight: bold;
+		
+	}
+	
+}
