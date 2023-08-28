@@ -1,0 +1,27 @@
+/*navigation*/
+.navbar .navbar-brand{
+	color: #000000;
+	font-weight: bolder;
+	padding-left: 3%;
+}
+
+.navbar .navbar-brand:hover{
+  color: #000000;
+}
+.nav-link {
+	color: black !important;
+	font-weight: bolder;
+	font-size: 13px;
+
+}
+
+.j1 {
+	height: 400px;
+	background-image: url("images/photo4.avif");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-radius: 25px;
+	margin-left: 3%;
+	margin-right: 4%;
+}

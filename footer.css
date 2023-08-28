@@ -37,6 +37,17 @@ footer a:hover {
   color: white;
 }
 
+/*highlighting div*/
+#form:target {
+    animation: target-fade 1s 1;
+}
+
+@keyframes target-fade {
+    0% { background-color: #ff0000; }
+    100% { background-color: #f5f5f5; }
+}
+/*highlighting div*/
+
 
 /*SOCİAL İCONS*/
 
@@ -122,40 +133,31 @@ ul.social-network li {
 
 
 /*media queries*/
-/*extra small devices (phones, 600px and down)*/
-@media only screen and (max-width:600px)
-{
+@media only screen and (min-width: 320px) {
+    .mainfooter .footer-middle  .container-fluid .row .col-sm-6 .footer-pad { 
+
+        display: block; 
+        float: none;
+        width: 100%;
+    }
+  }
+
   
 
-  ul .list-unstyled{
-  width: 100%;
-  margin:0;
-  padding: 0;
-  float: left;
- }
+    @media only screen and (max-width: 768px) {
+    .mainfooter{
+/*      text-align: left;*/
+    }
 
- ul .list-unstyled li{
-  display: inline;
+  .mainfooter .list-unstyled li {
+    list-style: none;
+  }
+  .mainfooter a {
+/*      text-align: center;*/
+float: left;
+  }
 }
 
- 
- ul .list-unstyled li a{
-  float: left;
-  width: 30%;
-  padding: 2px 5px;
-}
-  
-}
 
-/*small devices(portrait tablet and large phones, 600px and upwards)*/
-@media only screen and (min-width:600px){
-
-}
-
-/*medium devices(landscape tablets, 768px and up)*/
-@media only screen and (min-width:768px)
-{
-
-}
 
 

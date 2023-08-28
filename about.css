@@ -1,5 +1,6 @@
 body {
-	font-family: 'Montserrat', sans-serif;
+/*	font-family: 'Montserrat', sans-serif;*/
+	font-family: 'Lato', sans-serif;
 }
 
 /*navigation*/
@@ -12,6 +13,7 @@ body {
 	color: black !important;
 	font-weight: bolder;
 	font-size: 13px;
+	opacity: 0.5;
 
 }
 
@@ -41,16 +43,36 @@ body {
 }
 
 .j3 {
-	background-color:#ffcce6;
-	height: 250px;
+/*	background-color:#ffcce6;*/
+	background-image: url("images/banner2.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+
+	height: 450px;
 }
 
 .lead1 {
 	color: #404040;
 }
 
+.info li {
+	color: #000000;
+	font-size: 14px;
+	font-weight: normal;
+}
+
 /*media queries*/
+/* small devices(portrait and large pones, 600px and up)*/
 @media only screen and (max-width:600px){
+
+	 .nav-link {
+  color: black !important;
+  font-weight: bolder;
+  font-size: 13px;
+  opacity: 0.5;
+
+}
 
 	.navbar-toggler-icon{
 		
@@ -58,5 +80,28 @@ body {
   opacity: .5;
   
 }
+
+}
+
+
+/* small devices(portrait and large pones, 600px and up)*/
+@media only screen and (min-width:600px){
+
+.nav-link {
+  color: black !important;
+  font-weight: bolder;
+  font-size: 13px;
+  opacity: 0.5;
+
+}
+
+.navbar-toggler-icon{
+  background-color: #000000;
+  opacity: 2.0;
+  
+}
+
+
+ 
 
 }

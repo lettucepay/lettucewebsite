@@ -36,7 +36,7 @@
 
     	<div class="jumbotron jumbotron-fluid j3">
   <div class="container">
-    <h4 class="display-6" style="font-weight: bold;">Empowering Financial Freedom Through Innovative Partnerships: Lettuce Pay's Commitment to a Sustainable Future</h4>
+    <!-- <h4 class="display-6" style="font-weight: bold;">Empowering Financial Freedom Through Innovative Partnerships: Lettuce Pay's Commitment to a Sustainable Future</h4> -->
     <!-- <p class="lead">Al LettucePay, we believe conscious shopping be effortless</p> -->
   </div>
 </div>

@@ -9,10 +9,15 @@ body {
 	font-weight: bolder;
 	padding-left: 3%;
 }
+.navbar .navbar-brand:hover{
+	color: black;
+}
+
 .nav-link {
 	color: black !important;
 	font-weight: bolder;
 	font-size: 13px;
+	opacity: 0.5;
 
 }
 
@@ -24,7 +29,7 @@ body {
 	background-position: center;
 	background-attachment: scroll;
 	background-size: cover;
-	margin-top: 5%;
+	margin-top: %;
 }
 
 .display-6 {
@@ -68,4 +73,32 @@ color: #00b33c;
 		
 	}
 	
+}
+
+/* small devices(portrait and large pones, 600px and up)*/
+@media only screen and (min-width:600px){
+
+/*navbar*/
+
+  .nav-link {
+  color: black !important;
+  font-weight: bolder;
+  font-size: 13px;
+  opacity: 0.5;
+
+}
+
+.navbar-toggler-icon{
+  background-color: #000000;
+  opacity: .5;
+  
+}
+/*end of navbar*/
+
+/*.j3 {
+		margin-top: 8%;
+	}*/
+
+ 
+
 }
