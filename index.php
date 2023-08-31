@@ -104,11 +104,9 @@
 
       <div class="container marketing">
 
-        <!-- Three columns of text below the carousel -->
-        <div class="row">
+       <div class="row">
 
           <div class="col-lg-2">
-            <!-- <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="100" height="100"> -->
             <i class="fa fa-medkit" aria-hidden="true" style="font-size: 18px;"></i>
             <p class="cat">Clothing</p>
            </div>
@@ -126,9 +124,9 @@
           <div class="col-lg-2">
            <i class="fa fa-picture-o" aria-hidden="true" style="font-size: 18px;"></i>
             <p class="cat">Photos</p>
+          </div>
            
           
-          </div><!-- /.col-lg-4 -->
 
           <div class="col-lg-2">
            <i class="fa fa-car" aria-hidden="true" style="font-size: 18px;"></i>
@@ -140,14 +138,16 @@
             <p class="cat">Phones</p>
            </div>
 
-          <!-- /.col-lg-4 -->
+          
 
-        </div><!-- /.row -->
+        </div>
+      </div>
+      <!-- end of marketing -->
 
 
         <!-- START THE FEATURETTES -->
 
-        <!-- <hr class="featurette-divider"> -->
+        <hr class="featurette-divider">
 
         <!-- partner stores -->
 
@@ -159,7 +159,7 @@
 
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <!-- <span class="overlay"></span> -->
+                            
                             <div class="card-image">
                                 <a href=""><img src="images/5.png" alt="" class="card-img"></a>
                             </div>
@@ -172,7 +172,7 @@
 
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <!-- <span class="overlay"></span> -->
+                            
                             <div class="card-image">
                                 <a href=""><img src="images/6.png" alt="" class="card-img"></a>
                             </div>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <!-- <span class="overlay"></span> -->
+                            
                             <div class="card-image">
                               <a href=""><img src="images/10.png" alt="" class="card-img"></a>
                             </div>
@@ -196,7 +196,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <!-- <span class="overlay"></span> -->
+                            
                             <div class="card-image">
                                 <a href=""><img src="images/5.png" alt="" class="card-img"></a>
                             </div>
@@ -208,7 +208,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <!-- <span class="overlay"></span> -->
+                            
                             <div class="card-image">
                                 <a href=""><img src="images/6.png" alt="" class="card-img"></a>
                             </div>
@@ -219,55 +219,6 @@
                         </div>
                     </div>
 
-                  <!--   <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <img src="images/profile6.jpg" alt="" class="card-img">
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                           
-                        </div>
-                    </div>
-
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <img src="images/profile7.jpg" alt="" class="card-img">
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                            
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <img src="images/profile8.jpg" alt="" class="card-img">
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                           
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="image-content">
-                            <span class="overlay"></span>
-                            <div class="card-image">
-                                <img src="images/profile9.jpg" alt="" class="card-img">
-                            </div>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="name">David Dell</h2>
-                           
-                        </div>
-                    </div> -->
                 </div>
             </div>
             <div class="swiper-button-next swiper-navBtn"></div>
@@ -278,7 +229,9 @@
 
 
       <!-- FOOTER -->
-      <?php include("footer.php"); ?>
+      <?php 
+      include("footer.php");
+       ?>
       
     
     </main>

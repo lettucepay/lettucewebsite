@@ -1,7 +1,4 @@
-*{
-/* making sure the padding an border are included in the total width and height of the element */
-  box-sizing: border-box;
-}
+
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -190,6 +187,21 @@ background-color: #000000;
 background-color: #000000;
 }
 
+/*media queries*/
+
+@media only screen and (max-width:480px)
+{
+  body {
+/*    background-color: yellow;*/
+  }
+  .col-lg-2 .cat{
+/*    visibility: none;*/
+    display: none;
+  }
+
+
+}
+
 @media screen and (max-width: 768px) {
   .slide-content{
     margin: 0 10px;
@@ -198,6 +210,7 @@ background-color: #000000;
     display: none;
   }
 }
+
 
 
 /*extra small devices(phones, 600px and down)*/

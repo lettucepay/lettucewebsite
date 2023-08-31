@@ -133,30 +133,11 @@ ul.social-network li {
 
 
 /*media queries*/
-@media only screen and (min-width: 320px) {
-    .mainfooter .footer-middle  .container-fluid .row .col-sm-6 .footer-pad { 
-
-        display: block; 
-        float: none;
-        width: 100%;
-    }
-  }
-
+@media only screen and (max-width:480px)
+{
   
-
-    @media only screen and (max-width: 768px) {
-    .mainfooter{
-/*      text-align: left;*/
-    }
-
-  .mainfooter .list-unstyled li {
-    list-style: none;
-  }
-  .mainfooter a {
-/*      text-align: center;*/
-float: left;
-  }
 }
+
 
 
 
