@@ -22,8 +22,8 @@ body {
 }
 
 .j1 {
-	height: 400px;
-	background-image: url("images/photo4.avif");
+	height: 550px;
+	background-image: url("images/welcome4.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -33,7 +33,9 @@ body {
 }
 
 .intro1{
-	color: white;
+	color: #ffffff;
+/*color: #009933;*/
+
 	font-weight: bolder;
 }
 

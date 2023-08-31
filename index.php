@@ -44,8 +44,8 @@
 
       <div class="jumbotron  j1">
   <div class="container">
-    <h1 class="display-4 intro1">Shop from world<br> wide stores</h1>
-    <p class="lead">Shop products from more than 500 stores across the globe.</p>
+    <h1 class="display-4 intro1">We compare<br>You shop</h1>
+    <p class="lead">Shop products from more than 500 stores across Ghana.</p>
   </div>
 </div>
 
